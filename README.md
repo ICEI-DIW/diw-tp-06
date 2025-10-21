@@ -1,6 +1,8 @@
 # Trabalho Prático - Semana 11
 
-Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenvolvimento mais completo, típico de equipes profissionais. Nesse processo, vamos utilizar um **servidor backend simulado** com o **JSON Server** baseado em APIs RESTful. Um arquivo JSON funcionará como banco de dados e será processado pelo JSON Server que expõe uma API RESTful no servidor.
+Nessa etapa, você irá evoluir o projeto anterior e montando um ambiente de desenvolvimento mais completo, típico de projetos profissionais. Nesse processo, vamos utilizar um **servidor backend simulado** com o JSON Server que fornece uma APIs RESTful a partir de um arquivo JSON.
+
+Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o cadastro e alteração de dados da entidade principal (CRUD).
 
 ## Informações do trabalho
 
@@ -9,11 +11,11 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
-**Print do teste da API com visualização do JSON**
+**Print dos testes da API com Postman ou similar**
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-**Print da aba NETWORK com requisições Fetch/XHR**
+**Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
 <<  COLOQUE A IMAGEM AQUI >>
 
